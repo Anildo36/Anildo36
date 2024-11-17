@@ -1,16 +1,14 @@
-## Hi there 👋
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+## Olá sou Anildo Santos 👋
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anildo-santos-158271216/)
+[![INSTAGRAN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dantizin/?hl=pt-br)
+[![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anildo.santos.52?locale=pt_BR)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lin es=HELLO,+My+name+is+Úrsula+Fernanda;I'm+26+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=vue-dark)
 
- ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+TECNOLOGIAS QUE ESTOU APRENDENDO
+<div style="display: inline_block"><br/>
+<img align="center"alt="phyton"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><div style="display: inline_block"><br/>
+<img align="center"alt="SQL"src="https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=SQL&logoColor=black"><br/>
 
-
-
-
-
-
-**Anildo36/Anildo36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+ 
 
