@@ -7,8 +7,7 @@
 
 TECNOLOGIAS QUE ESTOU APRENDENDO
 <div style="display: inline_block"><br/>
-<img align="center"alt="phyton"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><div style="display: inline_block"><br/>
-<img align="center"alt="SQL"src="https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=SQL&logoColor=black"><br/>
+<img align="center"alt="phyton"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><div style="display: inline_block"><br/><img align="center"alt="SQL"src="https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=SQL&logoColor=black"><br/>
 
  
 
