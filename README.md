@@ -1,6 +1,6 @@
 ## Hi there 👋
 es=HELLO,+My+name+is+Anildo+santos;I'm+36+years+old;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](htt ps://git.io/typing-svg)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
 <!--
 **Anildo36/Anildo36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
