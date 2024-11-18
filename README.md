@@ -15,9 +15,18 @@ LINGUAGENS E TECNOLOGIAS QUE ESTOU APRENDENDO
     title="Python"
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+     />
+     
+<img 
+    align="left" 
+    width="35px" 
+    style="padding-right: 10px;"
     />
-    
+ ![SQL](https://img.shields.io/badge/-SQL-ECDB00?style=for-the-badge&logo=sql&labelColor=000000)&nbsp;
+
+
+   
 
 
 
