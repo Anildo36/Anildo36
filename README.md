@@ -24,6 +24,7 @@ LINGUAGENS E TECNOLOGIAS QUE ESTOU APRENDENDO
     style="padding-right: 10px;"
     />
  ![SQL](https://img.shields.io/badge/-SQL-ECDB00?style=for-the-badge&logo=sql&labelColor=000000)&nbsp;
+---
 
 
    
