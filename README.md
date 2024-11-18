@@ -8,8 +8,18 @@ Olá , pessoal! Estou iniciando minha jornada como Cientista de Dados com muita 
 [![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anildo.santos.52?locale=pt_BR)
 ---
 LINGUAGENS E TECNOLOGIAS QUE ESTOU APRENDENDO
-<div style="display: inline_block"><br/>
-<img align="center"alt="phyton"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/><div style="display: inline_block"><br/><img align="center"alt="SQL"src="https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=SQL&logoColor=black"><br/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    
+
+
 
  
 
