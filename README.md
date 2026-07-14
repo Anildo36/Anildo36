@@ -1,7 +1,7 @@
 ### Anildo Santos 👋
 **`Data Scientist`**  he/his
 
-Olá , pessoal! Estou iniciando minha jornada como Cientista de Dados com muita dedicação e paixão. Embora o caminho seja desafiador, estou comprometido em aprender o máximo possível, superando obstáculos e buscando sempre a excelência. Cada dia é uma nova oportunidade de crescer e aplicar meus conhecimentos de forma prática. Estou pronto para contribuir com soluções inovadoras e fazer a diferença nesse universo incrível dos dados!"
+Olá , pessoal! Estou iniciando minha jornada como Analista de Dados e Cientista de Dados com muita dedicação e paixão. Embora o caminho seja desafiador, estou comprometido em aprender o máximo possível, superando obstáculos e buscando sempre a excelência. Cada dia é uma nova oportunidade de crescer e aplicar meus conhecimentos de forma prática. Estou pronto para contribuir com soluções inovadoras e fazer a diferença nesse universo incrível dos dados!"
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anildo-santos-158271216/)
 [![INSTAGRAN](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dantizin/?hl=pt-br)
