@@ -26,8 +26,9 @@ LINGUAGENS E TECNOLOGIAS QUE ESTOU APRENDENDO
 
  ---
  FORMAÇÃO
- -SCTEC-SC Análises de dados com Python\
- -IPOG CYBERSECURITY
+-EBAC - Escola Britânica de Artes Criativas e Tecnologia.  Data Science\
+-SCTEC-SC Análises de dados com Python.\
+-IPOG CYBERSECURITY.
  
 
 
