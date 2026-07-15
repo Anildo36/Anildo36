@@ -26,7 +26,7 @@ LINGUAGENS E TECNOLOGIAS QUE ESTOU APRENDENDO
 
  ---
  FORMAÇÃO
- -SCTEC-SC Análises de dados com Python
+ -SCTEC-SC Análises de dados com Python  n\
  -IPOG CYBERSECURITY
  
 
