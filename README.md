@@ -25,7 +25,7 @@ LINGUAGENS E TECNOLOGIAS QUE ESTOU APRENDENDO
  ![SQL](https://img.shields.io/badge/-SQL-ECDB00?style=for-the-badge&logo=sql&labelColor=000000)&nbsp;</img>
 
  ---
- FORMAÇÃO
+ FORMAÇÃO\
 -EBAC - Escola Britânica de Artes Criativas e Tecnologia.  Data Science\
 -SCTEC-SC Análises de dados com Python.\
 -IPOG CYBERSECURITY.
