@@ -1,5 +1,5 @@
 ### Anildo Santos 👋
-**`Data analytics / Data Scientist/ Cyber security`**  **he/his**
+**`Data analytics / Data Scientist/ Cyber security`**  **`he/his`**
 
 Olá , Sou estudante de Segurança Cibernética e estou iniciando minha jornada também como Análise de Dados e Cientista de Dados com muita dedicação e paixão. Embora o caminho seja desafiador, estou comprometido em aprender o máximo possível, superando obstáculos e buscando sempre a excelência. Cada dia é uma nova oportunidade de crescer e aplicar meus conhecimentos de forma prática. Estou pronto para contribuir com soluções inovadoras e fazer a diferença nesse universo incrível dos dados!"
 
