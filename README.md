@@ -7,29 +7,11 @@ Olá , Sou estudante de Segurança Cibernética e estou iniciando minha jornada 
 
 ---
 LINGUAGENS E TECNOLOGIAS QUE ESTOU APRENDENDO
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-    >
-     
-  <img 
-    align="left" 
-    width="30px" 
-    style="padding-right: 10px;"
-    />
- ![SQL](https://img.shields.io/badge/-SQL-ECDB00?style=for-the-badge&logo=sql&labelColor=000000)&nbsp;</img>
-
- <img
-   align="left" 
-    width="30px" 
-    style="padding-right: 10px;"
- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)>
-
+<br clear="left"/>
  ---
  FORMAÇÃO
  
