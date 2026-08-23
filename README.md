@@ -22,13 +22,6 @@ de segurança que me ajuda a pensar em governança e proteção de dados desde a
 
 ---
 
-## Atividade no GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anildo36&show_icons=true&theme=dark&hide_border=true" width="48%" />
-
----
-
 ## Formação
 
 - EBAC - Escola Britânica de Artes Criativas e Tecnologia. Data Science
