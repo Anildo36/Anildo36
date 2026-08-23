@@ -1,7 +1,15 @@
 ### Anildo Santos 👋
 **`Data analytics / Data Scientist/ Cyber security`**  **`he/his`**
 
-Olá , Sou estudante de Segurança Cibernética e estou iniciando minha jornada também como Análise de Dados e Cientista de Dados com muita dedicação e paixão. Embora o caminho seja desafiador, estou comprometido em aprender o máximo possível, superando obstáculos e buscando sempre a excelência. Cada dia é uma nova oportunidade de crescer e aplicar meus conhecimentos de forma prática. Estou pronto para contribuir com soluções inovadoras e fazer a diferença nesse universo incrível dos dados!"
+### Olá, sou o Anildo 👋
+
+Estudante de **Segurança Cibernética** em transição para **Data Analytics / Data Science**.
+Hoje foco em consolidar SQL e Python aplicados à análise de dados, com uma base
+de segurança que me ajuda a pensar em governança e proteção de dados desde a raiz.
+
+🔭 Atualmente estudando: análise de dados com Python, SQL e fundamentos de PostgreSQL
+🌱 Próximo passo: projetos práticos de ponta a ponta (ETL + dashboard)
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/anildo-santos/) · [anildo.dant@gmail.com]
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anildo-santos-158271216/)
 
