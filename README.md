@@ -24,6 +24,12 @@ LINGUAGENS E TECNOLOGIAS QUE ESTOU APRENDENDO
     />
  ![SQL](https://img.shields.io/badge/-SQL-ECDB00?style=for-the-badge&logo=sql&labelColor=000000)&nbsp;</img>
 
+ <img
+   align="left" 
+    width="30px" 
+    style="padding-right: 10px;"
+ ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)>
+
  ---
  FORMAÇÃO
  
