@@ -22,6 +22,15 @@ LINGUAGENS E TECNOLOGIAS QUE ESTOU APRENDENDO
 
 <br clear="left"/>
 
+---
+Atividade no GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anildo36&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Anildo36&theme=dark&hide_border=true" width="48%" />
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anildo36&layout=compact&theme=dark&hide_border=true)
+
  ---
  FORMAÇÃO
  
