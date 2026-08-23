@@ -29,8 +29,6 @@ Atividade no GitHub
   <img src="https://streak-stats.demolab.com/?user=Anildo36&theme=dark&hide_border=true" width="48%" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anildo36&layout=compact&theme=dark&hide_border=true)
-
  ---
  FORMAÇÃO
  
